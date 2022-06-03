@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SofdesQuiz4 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SofdesQuiz4 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
